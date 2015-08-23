@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ModernArtUi</string>
     <string name="action_more_information">More Information</string>
 
     <string name="visit_now">Visit MOMA</string>
-    <string name="visit_not_now">Not now</string>
+    <string name="visit_not_now">Not Now</string>
 
     <string name="dialog_message">Inspired by the works of artists such as\n Ben Nicholson and Piet Mondrian</string>
     <string name="learn_more">Click below to learn more!</string>
