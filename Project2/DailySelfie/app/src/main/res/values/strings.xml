@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daily Selfie</string>
+    <string name="icon_description_acc">Image icon</string>
+    <string name="intent_received_string">It\'s time to take your daily selfie!</string>
+    <string name="notification_ticker_text">Time for a selfie!</string>
+    <string name="notification_content_text">Time to take another selfie!</string>
+</resources>
